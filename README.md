@@ -1,2 +1,2 @@
-# horoshilov.pro
-horoshilov.pro page
+# hrshlov.ru
+hrshlov.ru page
